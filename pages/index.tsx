@@ -38,33 +38,33 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  The 3DOT Corp NFT Marketplace is finally here !
                 </span>
                 <br />
-                faster than ever.
+                Empowering the Creator Economy.
               </h1>
               <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
-                  href="https://thirdweb.com"
+                  href="https://3dotcorp.com"
                   target="_blank"
                 >
-                  thirdweb
+                  3DOT Corp
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                gives you the tools you need to create, buy, sell, and
+                trade your creativity in using the power of Thirdweb in <b>hours</b>, <i>not months</i>.
               </p>
 
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
-                  Get Started
+                  Dive In
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://presalewebsite-hyb605bp0-asktrabaajo.vercel.app/"
                   target="_blank"
                 >
-                  GitHub
+                  Presale Website
                 </Link>
               </div>
             </div>
